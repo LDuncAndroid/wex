@@ -1,6 +1,6 @@
 {
-  "name": "btc-e3",
-  "version": "0.1.1",
+  "name": "wex",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arvitaly/btc-e3.git"
+    "url": "git+https://github.com/mulletinc/wex.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arvitaly/btc-e3/issues"
+    "url": "https://github.com/mulletinc/wex/issues"
   },
-  "homepage": "https://github.com/arvitaly/btc-e3#readme",
+  "homepage": "https://github.com/mulletinc/wex#readme",
   "jest": {
     "setupFiles": [
       "./setupJest.js"
